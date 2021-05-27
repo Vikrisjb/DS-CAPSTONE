@@ -3,7 +3,7 @@ Applied Data Science Capstone of IBM Course on Coursera
 
 
 Hello, everyone and welcome to the Applied
-Data Science Specialization Capstone. I'm Alex Aklson, a data scientist at
+Data Science Specialization Capstone.  a data scientist at
 IBM and I'll be your course instructor. All right, let me start by congratulating you on
 making it all the way to the capstone. By now, you must have completed
 the Python for data science course, the data visualization with Python course,
